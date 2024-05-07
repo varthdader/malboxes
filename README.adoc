@@ -71,7 +71,7 @@ https://github.com/gosecure/malboxes
 * Install vagrant from their website : https://www.vagrantup.com/downloads.html (Installing from some distributions' packaging tools have caused issues). 
 * `pip install` malboxes:
 +
-    sudo pip3 install git+https://github.com/GoSecure/malboxes.git#egg=malboxes
+    sudo pip3 install git+https://github.com/varthdader/malboxes.git#egg=malboxes
 
 === Windows
 
@@ -98,7 +98,7 @@ installed. Otherwise, follow the <<Manually,manual installation procedure>>.
 * Install malboxes:
 +
     pip3 install setuptools
-    pip3 install -U git+https://github.com/GoSecure/malboxes.git#egg=malboxes
+    pip3 install -U git+https://github.com/varthdader/malboxes.git#egg=malboxes
 
 ==== Manually
 
@@ -112,7 +112,7 @@ installed. Otherwise, follow the <<Manually,manual installation procedure>>.
 * Open a console (Windows-Key + cmd)
 +
     pip3 install setuptools
-    pip3 install -U git+https://github.com/GoSecure/malboxes.git#egg=malboxes
+    pip3 install -U git+https://github.com/varthdader/malboxes.git#egg=malboxes
 
 === To deploy on AWS (optional)
 Run this command after normal installation:
